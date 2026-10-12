@@ -1,0 +1,12 @@
+{
+  "/Users/admin/workspace/flutter/moaather/macos/Runner/MainFlutterWindow.swift" : {
+    "abi-baseline-json" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/moaather.abi.json",
+    "const-values" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-primary.swiftconstvalues",
+    "dependencies" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-primary.d",
+    "diagnostics" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/Runner-primary.dia",
+    "objc-header" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/moaather-Swift.h",
+    "swiftdoc" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/moaather.swiftdoc",
+    "swiftmodule" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/moaather.swiftmodule",
+    "swiftsourceinfo" : "/Users/admin/workspace/flutter/moaather/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/Objects-normal/arm64/moaather.swiftsourceinfo"
+  }
+}
